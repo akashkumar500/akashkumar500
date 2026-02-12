@@ -1,5 +1,5 @@
 <h1 align="center">Akash Kumar</h1>
-<h3 align="center">AI Engineer in Progress • Ethical Hacker • Intelligent Systems Builder 🚀</h3>
+<h3 align="center">AI Engineer in Progress • Ethical Hacker • Intelligent Systems Builder </h3>
 
 <p align="center">
   <b>Engineering AI systems with security, scalability, and real-world impact.</b>
@@ -18,7 +18,6 @@
   <img src="https://img.shields.io/badge/C++-DSA-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-Frontend-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TensorFlow-Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-Neural%20Networks-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-Machine%20Learning-009688?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-Active%20Developer-181717?style=for-the-badge&logo=github&logoColor=white"/>
