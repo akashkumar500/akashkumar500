@@ -26,23 +26,11 @@
 
 <hr>
 
-# 🧠 About Me
-
-- 🤖 Building AI-powered applications  
-- 🛡 Exploring Ethical Hacking & Secure Development  
-- 🐍 Strong foundation in Python & algorithmic thinking  
-- 🌐 Frontend developer focused on structured UI systems  
-- 🎯 Research-driven continuous learner  
-
-<hr>
-
 # 🧩 Core Competencies
 
 - AI Model Design & Optimization  
 - Secure Software Architecture  
 - Algorithmic Problem Solving  
-- Prompt Engineering & System Logic  
-- Clean Code & Scalable Design  
 
 <hr>
 
@@ -72,7 +60,6 @@ Actively maintaining clean repositories with structured commits and scalable arc
 
 - Deep learning model development  
 - Neural network experimentation  
-- Classical ML algorithms & preprocessing  
 - Model evaluation & optimization  
 
 ---
@@ -84,7 +71,6 @@ Actively maintaining clean repositories with structured commits and scalable arc
 
 - Linux security environments  
 - Ethical hacking fundamentals  
-- Secure coding practices  
 - Vulnerability analysis  
 
 ---
@@ -97,4 +83,3 @@ Actively maintaining clean repositories with structured commits and scalable arc
 - Git & GitHub version control  
 - Vercel & Netlify deployment  
 - VS Code development workflow  
-- Figma UI prototyping  
